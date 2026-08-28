@@ -18,8 +18,8 @@ Z_MAX = 300.0
 
 # Vitesses exactes
 V_BUS = 75.0       
-V_H_GLIDE1 = 25.0
-V_Z_GLIDE1 = 12.0
+V_H_GLIDE1 = 22.0
+V_Z_GLIDE1 = 25.0
 V_Z_DIVE1 = 60.0   
 
 V_H_PLAN = 18.5
